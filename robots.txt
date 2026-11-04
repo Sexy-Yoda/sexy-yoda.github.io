@@ -1,0 +1,6 @@
+# SEO: robots.txt lives at the site root. It tells crawlers what they may visit.
+User-agent: *
+Allow: /
+
+# SEO: point crawlers at your sitemap.
+Sitemap: https://www.example.com/sitemap.xml

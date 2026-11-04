@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SEO: the sitemap lists the URLs you want indexed. Submit it in Google Search Console. Add each new page here. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2026-11-04</lastmod>
+  </url>
+</urlset>
