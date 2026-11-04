@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # SEO: point crawlers at your sitemap.
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://sexy-yoda.github.io/sitemap.xml
